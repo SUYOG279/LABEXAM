@@ -8,7 +8,7 @@ WORKDIR /src
 COPY . .
 
 
-EXPOSE 4000
+EXPOSE 8909
 
 
 CMD node server.js
