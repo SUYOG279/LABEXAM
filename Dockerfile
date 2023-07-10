@@ -8,7 +8,7 @@ WORKDIR /src
 COPY . .
 
 
-EXPOSE 8909
+EXPOSE 4000
 
 
 CMD node index.js
