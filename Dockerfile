@@ -11,4 +11,4 @@ COPY . .
 EXPOSE 8909
 
 
-CMD node server.js
+CMD node index.js
